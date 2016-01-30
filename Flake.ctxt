@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=s\ x\ y
+comment0.target=Flake(double,\ double,\ double)
+comment1.params=s\ x\ y\ dx\ dy
+comment1.target=Flake(double,\ double,\ double,\ double,\ double)
+comment2.params=to
+comment2.target=void\ setWind(int)
+comment3.params=
+comment3.target=void\ update()
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

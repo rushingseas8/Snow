@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=DrawSnow()
+comment2.params=e
+comment2.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment2.text=Listen\ to\ the\ slider.
+comment3.params=
+comment3.target=void\ run()
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment5.params=
+comment5.target=void\ update()
+comment6.params=
+comment6.target=void\ updatePatterns()
+numComments=7
